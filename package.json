@@ -1,0 +1,26 @@
+{
+  "name": "cat-scramble",
+  "main": "node_modules/expo/AppEntry.js",
+  "icon": "./images/catIcon.png",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^30.0.1",
+    "jumpstate": "^2.2.2",
+    "react": "^16.6.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-navigation": "^2.18.1",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.1"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
